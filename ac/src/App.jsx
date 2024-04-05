@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Banner/>
-      <Sobre/>
+      <Sobre/> 
       <Cards/>
     </>
   )
